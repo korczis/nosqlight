@@ -20,8 +20,7 @@ Think about it as about NoSQL version of SQLite.
   * No actions are required to recover after a system crash or power failure. 
   * There is nothing to troubleshoot.
 * [Document Oriented](http://en.wikipedia.org/wiki/Document-oriented_database) 
-* JSON based (no XML, please)
-* No Install Needed
+* [JSON Based](http://en.wikipedia.org/wiki/JSON) - no XML, please
 * Small resource footprint
 * Simple Clean API for at least inserting and simple querying 
 * Native Implementation (C/C++)
