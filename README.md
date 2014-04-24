@@ -48,8 +48,8 @@ Think about it as about NoSQL version of SQLite.
 
 #### List of SO users who does not like this idea
 
-* juergen d 
-* CL.
-* Philipp 
-* mghie
-* cale_b
+* [juergen d](http://stackoverflow.com/users/575376/juergen-d) 
+* [CL.](http://stackoverflow.com/users/11654/cl)
+* [Philipp](http://stackoverflow.com/users/1620671/philipp) 
+* [mghie](http://stackoverflow.com/users/30568/mghie)
+* [cale_b](http://stackoverflow.com/users/870729/cale-b)
