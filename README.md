@@ -28,5 +28,12 @@ Think about it as about NoSQL version of SQLite.
 
 ## Related links
 
+### BerkleyDB
+
+* [BerkleyDB on Wiki](http://en.wikipedia.org/wiki/Berkeley_DB)
+* [BerkleyDB on Architecture of Open Source Applications](http://aosabook.org/en/bdb.html)
+
+### SQLite
+
 * [The Architecture Of SQLite](http://www.sqlite.org/arch.html)
 * [Categorical Index Of SQLite Documents](http://www.sqlite.org/docs.html)
