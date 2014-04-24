@@ -38,7 +38,8 @@ Think about it as about NoSQL version of SQLite.
 * [The Architecture Of SQLite](http://www.sqlite.org/arch.html)
 * [Categorical Index Of SQLite Documents](http://www.sqlite.org/docs.html)
 
-### Other
+### UnQL
 
+* [UnQL: An Embeddable NoSQL Database Engine](http://unqlite.org/)
 * [UnQL: A Standardized Query Language for NoSQL Databases](http://www.dataversity.net/unql-a-standardized-query-language-for-nosql-databases/)
-* [Is UnQL dead?](https://www.arangodb.org/2012/04/07/is_unql_dead) Attempt for similar DB which failed
+* [Is UnQL dead?](https://www.arangodb.org/2012/04/07/is_unql_dead)
