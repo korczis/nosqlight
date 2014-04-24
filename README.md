@@ -45,3 +45,11 @@ Think about it as about NoSQL version of SQLite.
 * [UnQL: An Introduction To The UnQLite C/C++ Interfaces.](http://unqlite.org/api_intro.html)
 * [UnQL: A Standardized Query Language for NoSQL Databases](http://www.dataversity.net/unql-a-standardized-query-language-for-nosql-databases/)
 * [Is UnQL dead?](https://www.arangodb.org/2012/04/07/is_unql_dead)
+
+#### List of SO users who does not like this idea
+
+* juergen d 
+* CL.
+* Philipp 
+* mghie
+* cale_b
